@@ -43,7 +43,7 @@ python trap_framework.py
 ## Citation
 If you find our project helpful, please consider citing our paper:
 
-
+ 
 ```
 @misc{kang2025traptargetedredirectingagentic,
       title={TRAP: Targeted Redirecting of Agentic Preferences}, 
